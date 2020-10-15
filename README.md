@@ -1,5 +1,3 @@
-# Webbutveckling-CV
-
 * Komponenter, planera vilka delar din sida består av.
 
 * Struktur, vilka strukturella element använder sidan.
