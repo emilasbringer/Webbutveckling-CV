@@ -30,17 +30,17 @@ p{
     margin-left: 20px;
 }
 
-#blackbox {
-    border-top: 35px solid rgb(0, 0, 0);
-    border-left: 2px solid rgb(0, 0, 0);
-    border-right: 20px solid rgb(0, 0, 0);
-    border-bottom: 35px solid rgb(0, 0, 0);
-    background: rgb(0, 0, 0);
-    background-repeat: no-repeat;
-    background-origin: content-box;
+blackheader {
+    width: 80%;
+    margin: .8rem auto;
 }
 
-
+aside {
+    margin-left: 2%;
+    width: 30%;
+    float:left;
+    min-height: 100%;
+  }
 
 #page {
     border-top: 35px solid rgb(245, 245, 245);
